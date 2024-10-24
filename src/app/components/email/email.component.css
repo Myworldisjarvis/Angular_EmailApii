@@ -1,0 +1,29 @@
+.card{
+    width: 40%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.card h1{
+    text-align: center;
+    color: blueviolet;
+}
+.container{
+text-align: center;
+margin-top: 40px;
+}
+.filed{
+    width: 100%;
+
+}
+.text-center{
+    text-align: center;
+}
+.card button{
+    margin: 5px;
+}
